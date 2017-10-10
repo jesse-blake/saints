@@ -1,23 +1,15 @@
 {
   "name": "saints",
   "version": "1.1.0",
-  "description": "Canonized, beatified and venerable Catholics",
+  "description": "CanonizedCatholics",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "catholic",
     "canonized",
-    "beatified",
-    "venerable",
-    "saints",
-    "blesseds"
+    "saints"
   ],
   "author": "Jesse Blake <jesse@littlesystem.com>",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jesse-blake/saints.git"
