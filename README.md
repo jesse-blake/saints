@@ -1,8 +1,6 @@
 # Saints
 
-**WIP**
-
-List of canonized Catholics, i.e. real life superheroes.
+Useful data concerning canonized Catholics, i.e. real life superheroes.
 
 ## Install
 
