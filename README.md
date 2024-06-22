@@ -1,6 +1,6 @@
 # Saints
 
-Useful data concerning canonized Catholics, i.e. real life superheroes.
+Masterful words from real life superheroes.
 
 ## Install
 
