@@ -4,9 +4,9 @@
   "description": "Masterful Words",
   "main": "index.js",
   "keywords": [
-    "catholic",
-    "canonized",
-    "saints"
+    "quotes",
+    "epigrams",
+    "test data"
   ],
   "author": "Jesse Blake <jesse@littlesystem.com>",
   "license": "MIT",
